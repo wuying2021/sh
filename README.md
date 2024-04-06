@@ -23,11 +23,11 @@ apt update -y  && apt install -y curl
 ***
 ### 一键脚本
 ```bash
-curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
+
 ```
 or
 ```bash
-curl -sS -O https://raw.githubusercontent.com/kejilion/sh/main/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
+curl -sS -O https://raw.githubusercontent.com/wuying2021/sh/patch-1/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 ```
 
 
